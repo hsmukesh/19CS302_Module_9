@@ -16,7 +16,7 @@ To write a C Write a functions to perform enqueue, dequeue, display, peek in Que
 ```
 C functions to perform enqueue, dequeue, display, peek in Queue using Array.
 Developed by: Mukesh Hs
-RegisterNumber: 21222206055 
+RegisterNumber: 212222060155 
 */
 char queue[50]; 
 int size=10,front,rear,i; 
