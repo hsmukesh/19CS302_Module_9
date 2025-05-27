@@ -1,5 +1,5 @@
 # EX 44 C functions to perform enqueue, dequeue, display, peek in Queue using Array.
-## DATE:
+## DATE: 01/05/2025
 ## AIM:
 To write a C Write a functions to perform enqueue, dequeue, display, peek in Queue using Array.
 
