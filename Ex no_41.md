@@ -1,5 +1,5 @@
 # EX 41 C program to write a function to find the peek of stack using array.
-## DATE:
+## DATE: 01/05/2025
 ## AIM:
 To write a function to find the peek of stack using array.
 
